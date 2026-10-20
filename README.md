@@ -4,7 +4,7 @@ An interactive Data Science dashboard for exploring, analyzing, and visualizing 
 
 🚀 Live Demo
 
-Live App: https://github.com/25eg107e19-arch/datawise-india-air-quality-analysis.git
+Live App: https://datawise-india-air-quality-analysis-e5kjusruhpuermyxtvoatx.streamlit.app/
 
 📌 Project Overview
 
